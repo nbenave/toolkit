@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 .idea/
+
+# Ignore everything in this directory
+*
+# Except this .gitignore file
+!.gitignore
